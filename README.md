@@ -1,6 +1,6 @@
 # Jokes Generator | Chuck Norris Edition
 
-Just a simple joke generator using Chuck Norris database API
+Just a simple jokes generator using Chuck Norris database API. I know, they're exist.
 
 ## Result
 
